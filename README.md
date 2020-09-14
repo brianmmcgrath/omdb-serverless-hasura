@@ -2,6 +2,7 @@
 
 This is the source code for a Frontend Masters course with Jason Lengstorf about serverless functions.
 
+
 ### [See details](https://frontendmasters.com/workshops/serverless-functions/)
 
 ## Resources
@@ -21,3 +22,5 @@ Save all of these in '.env':
 - OMDB_API_KEY
 - HASURA_API_URL
 - HASURE_ADMIN_SECRET
+
+Minor update to trigger netlify build
