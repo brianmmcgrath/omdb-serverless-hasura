@@ -1,4 +1,4 @@
-# Frontend Masters: Serverless Functions with Jason Lengstorf
+# Serverless Functions with Netlify and Hasura
 
 This is the source code for a Frontend Masters course with Jason Lengstorf about serverless functions.
 
